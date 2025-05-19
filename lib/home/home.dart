@@ -5,7 +5,7 @@ import 'package:islami_app/home/providers/my_provider.dart';
 import 'package:islami_app/home/tabs/ahadeth.dart';
 import 'package:islami_app/home/tabs/quran.dart';
 import 'package:islami_app/home/tabs/radio.dart';
-import 'package:islami_app/home/tabs/sebha.dart';
+import 'package:islami_app/home/tabs/sepha.dart';
 import 'package:islami_app/home/tabs/settings.dart';
 import 'package:provider/provider.dart';
 
